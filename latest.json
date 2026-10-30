@@ -1,8 +1,8 @@
 {
-  "sha256": "7dea24994584934ac05cfc8834a2ae5735b7e8cf9458792bbc07e1dfbd32df01",
-  "size": 31189369,
-  "notes": "Офлайн-сборка APK агента: ECJ/AAPT2, D8 и подпись Android Keystore v2/v3. Исправлена проверка разрешений на новых Android, добавлен подробный отчёт. Сборка и подпись подтверждены на ARM64/API 36; установка агента на ТВ пока не выполняется.",
-  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.7.4/device-master-0.7.4.apk",
-  "versionName": "0.7.4",
-  "versionCode": 16
+  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.7.5/device-master-0.7.5.apk",
+  "sha256": "a33d829a296f4209057522ab5577377c98e6ac4f5cbda0cd578afb790cae99d6",
+  "versionName": "0.7.5",
+  "size": 31197561,
+  "notes": "Добавлена установка диагностического агента на выбранный ТВ: предварительная проверка и отдельное подтверждение, проверка SHA-256 и подписи установленного APK. Запуск экрана агента — отдельной кнопкой. При обрыве нет автоматического повтора. Агент пока только показывает модель и Android; реальная установка на вашем ТВ требует проверки.",
+  "versionCode": 17
 }
