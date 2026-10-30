@@ -1,8 +1,8 @@
 {
-  "size": 31209849,
-  "versionName": "0.7.6",
-  "sha256": "2e270f405b6f7d104f0f737208b030bdc92ed8f892d49064860adeb6c0cac353",
-  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.7.6/device-master-0.7.6.apk",
-  "notes": "Новая «Диагностика» в карточке ТВ на телефоне: модель, Android, RAM, домашний экран, плотность и анимации. Локальный подбор профиля CleanYourTV с объяснением совпадений и ручным подтверждением выбора. Расширена защита пульта, HDMI/CEC и ТВ-входов. Диагностика не меняет настройки и не расходует квоту Gemini; первый запуск на вашем ТВ ещё требуется проверить.",
-  "versionCode": 18
+  "sha256": "a440e91c336e5dbeadaf439fcb42550ae2b335a67c95c74b8095d84867ada323",
+  "size": 31222137,
+  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.7.7/device-master-0.7.7.apk",
+  "notes": "Безопасный план оптимизации: предварительное чтение ТВ, точный профиль CleanYourTV, подтверждение списка изменений, проверка результата и восстановление. Уже настроенные анимации 0,5x пропускаются; DNS, hosts и параметры ядра не меняются.",
+  "versionCode": 19,
+  "versionName": "0.7.7"
 }
