@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.3.0/device-master-0.3.0.apk",
-  "versionCode": 5,
-  "size": 614948,
-  "sha256": "32195a311ab2e7382f10ee71208dedd339a58972509792b284886171d86468e8",
-  "notes": "Добавлены проверка API-ключа, списка моделей и короткого запроса Gemini; обновление APK с телефона, уведомления о новых версиях и проверка подписи перед установкой.",
-  "versionName": "0.3.0"
+  "sha256": "a21fbaa73f43473e4f6fa8ec53ebbb3f919f2281df1a725dbb01506d6bd2de5e",
+  "size": 623140,
+  "notes": "Мониторинг выпусков и изменений CleanYourTV; сравнение с версией на ТВ и план улучшений через ИИ; обновление выбранного профиля; экспорт диагностики, ответов и ошибок в TXT; разделённый вывод приложений.",
+  "versionName": "0.4.0",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.4.0/device-master-0.4.0.apk"
 }
