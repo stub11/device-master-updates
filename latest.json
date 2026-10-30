@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "sha256": "acb430f5d8702bc680437868420dcc777718a3a9040952630087fa9c298a5e29",
-  "size": 623140,
-  "notes": "Кнопка сравнения с CleanYourTV теперь есть прямо на экране ТВ; выбор устройства из меню сравнения автоматически продолжает проверку.",
-  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.4.1/device-master-0.4.1.apk",
-  "versionName": "0.4.1"
+  "size": 627236,
+  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.5.0/device-master-0.5.0.apk",
+  "versionCode": 8,
+  "sha256": "7b8696a1fcd8e0495618d88f2e991fccfa827c032510c55728601ce0e0cbe82a",
+  "versionName": "0.5.0",
+  "notes": "Автозагрузка диагностического отчёта в приватный GitHub после однократной настройки отдельного токена; статус отправки в APK; ключи скрываются."
 }
