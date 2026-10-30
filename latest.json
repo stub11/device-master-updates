@@ -1,8 +1,8 @@
 {
+  "sha256": "9e361449b956c35dac8993835721987e849d4be30be500ec6e79f74c87f6eebb",
+  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.6.1/device-master-0.6.1.apk",
+  "versionName": "0.6.1",
   "size": 635428,
-  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.6.0/device-master-0.6.0.apk",
-  "versionCode": 9,
-  "notes": "Выбор основной и запасной модели Gemini; одна резервная попытка при HTTP 503; настройка HIGH/LOW/AUTO; локальные счётчики запросов и токенов без вымышленных лимитов; фактическая модель ответа в истории.",
-  "sha256": "9b7a5a520f527ea2eb657d181ef82a39eb13093836a3537a43f84f840388701c",
-  "versionName": "0.6.0"
+  "versionCode": 10,
+  "notes": "Проверка подписи установленного лаунчера CleanYourTV: пакет, версия, SHA-256 сертификата и понятный вердикт. Только чтение, без установки и удаления на ТВ. Результат уходит в приватный диагностический отчёт."
 }
