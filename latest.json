@@ -1,8 +1,8 @@
 {
-  "sha256": "a21fbaa73f43473e4f6fa8ec53ebbb3f919f2281df1a725dbb01506d6bd2de5e",
+  "versionCode": 7,
+  "sha256": "acb430f5d8702bc680437868420dcc777718a3a9040952630087fa9c298a5e29",
   "size": 623140,
-  "notes": "Мониторинг выпусков и изменений CleanYourTV; сравнение с версией на ТВ и план улучшений через ИИ; обновление выбранного профиля; экспорт диагностики, ответов и ошибок в TXT; разделённый вывод приложений.",
-  "versionName": "0.4.0",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.4.0/device-master-0.4.0.apk"
+  "notes": "Кнопка сравнения с CleanYourTV теперь есть прямо на экране ТВ; выбор устройства из меню сравнения автоматически продолжает проверку.",
+  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.4.1/device-master-0.4.1.apk",
+  "versionName": "0.4.1"
 }
