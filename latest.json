@@ -1,8 +1,8 @@
 {
-  "sha256": "9e361449b956c35dac8993835721987e849d4be30be500ec6e79f74c87f6eebb",
-  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.6.1/device-master-0.6.1.apk",
-  "versionName": "0.6.1",
+  "sha256": "6ff6491fc50226bb2e8298b8429d608e2315e6946bd0372bebef4b83ae66045c",
+  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.6.2/device-master-0.6.2.apk",
   "size": 635428,
-  "versionCode": 10,
-  "notes": "Проверка подписи установленного лаунчера CleanYourTV: пакет, версия, SHA-256 сертификата и понятный вердикт. Только чтение, без установки и удаления на ТВ. Результат уходит в приватный диагностический отчёт."
+  "versionCode": 11,
+  "versionName": "0.6.2",
+  "notes": "Исправлено чтение APK лаунчера: штатный ADB SYNC вместо base64. Последовательные команды используют отдельные потоки. Проверка подписи не устанавливает и не изменяет приложения на ТВ."
 }
