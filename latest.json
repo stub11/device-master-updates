@@ -1,0 +1,8 @@
+{
+  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.3.0/device-master-0.3.0.apk",
+  "versionCode": 5,
+  "size": 614948,
+  "sha256": "32195a311ab2e7382f10ee71208dedd339a58972509792b284886171d86468e8",
+  "notes": "Добавлены проверка API-ключа, списка моделей и короткого запроса Gemini; обновление APK с телефона, уведомления о новых версиях и проверка подписи перед установкой.",
+  "versionName": "0.3.0"
+}
