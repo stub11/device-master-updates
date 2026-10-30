@@ -1,8 +1,8 @@
 {
-  "notes": "Установка CleanYourTV 3.2 через отдельное подтверждение: проверки подписи и хеша, резерв APK и доступных настроек, экспорт ZIP, вариант возврата к коду 3.0. Приватные настройки без root не резервируются. Откройте устройство → Лаунчер: обновление, возврат и резерв.",
-  "sha256": "ad372548395c36adcd9dec2710777d611563a0f0c2889d52cf2095647d075bec",
-  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.7.0/device-master-0.7.0.apk",
-  "versionName": "0.7.0",
-  "size": 647716,
-  "versionCode": 12
+  "sha256": "7dea24994584934ac05cfc8834a2ae5735b7e8cf9458792bbc07e1dfbd32df01",
+  "size": 31189369,
+  "notes": "Офлайн-сборка APK агента: ECJ/AAPT2, D8 и подпись Android Keystore v2/v3. Исправлена проверка разрешений на новых Android, добавлен подробный отчёт. Сборка и подпись подтверждены на ARM64/API 36; установка агента на ТВ пока не выполняется.",
+  "apkUrl": "https://github.com/stub11/device-master-updates/releases/download/v0.7.4/device-master-0.7.4.apk",
+  "versionName": "0.7.4",
+  "versionCode": 16
 }
