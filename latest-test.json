@@ -1,8 +1,8 @@
 {
-  "versionCode": 100050,
-  "versionName": "0.8.0-home-lan-test.50",
+  "versionCode": 100052,
+  "versionName": "0.8.0-home-lan-test.52",
   "apkUrl": "https://raw.githubusercontent.com/stub11/device-master-updates/test-ota/device-master-test.apk",
-  "sha256": "c99a4fd5b6e08f35a7b16670ddfc5a173a728345d73b7617a4f231e40d63e757",
+  "sha256": "95d1c63269d3036a906e8df1184ada87d125fcfb26b80cd198e289b36f5c92f2",
   "size": 39259177,
-  "notes": "Тестовое обновление Device Master: исправлен каталог Xiaomi; добавлено обновление внутри приложения."
+  "notes": "Экспериментальная версия Device Master. Обновление устанавливается после подтверждения Android."
 }
