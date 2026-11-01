@@ -1,8 +1,8 @@
 {
-  "versionCode": 100056,
-  "versionName": "0.8.0-home-lan-test.56",
+  "versionCode": 100058,
+  "versionName": "0.8.0-home-lan-test.58",
   "apkUrl": "https://raw.githubusercontent.com/stub11/device-master-updates/test-ota/device-master-test.apk",
-  "sha256": "96316eaeab0b3a283712fb2c0d610ae603e7a19d79a3f86c09ad758b3cf3d96d",
+  "sha256": "cbce9fe8bae9172d76dd8e7e60a9676d0e62b92a99ce5a9409e2e569d848dd56",
   "size": 39259177,
   "notes": "Экспериментальная версия Device Master. Обновление устанавливается после подтверждения Android."
 }
